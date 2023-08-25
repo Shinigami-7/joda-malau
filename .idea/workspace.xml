@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adb95994-612f-47b0-a3af-3682e4ecea65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/memory-loss.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/joda_milau/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/joda_milau/HelloApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/joda_milau/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/joda_milau/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -25,7 +25,7 @@
             <Font name="Arial Rounded MT Bold" size="18.0" />
          </font>
       </Label>
-      <Button layoutX="238.0" layoutY="304.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="76.0" style="-fx-background-color: #674FF9;" text="Start" textAlignment="CENTER" textOverrun="CENTER_WORD_ELLIPSIS">
+      <Button layoutX="238.0" layoutY="304.0" mnemonicParsing="false" prefHeight="15.0" prefWidth="76.0" style="-fx-background-color: #674FF9;" text="Start" textAlignment="CENTER" textFill="#fbf3f3" textOverrun="CENTER_WORD_ELLIPSIS">
          <font>
             <Font size="14.0" />
          </font>
